@@ -6,7 +6,7 @@
 
 Console.Clear();
 
-string[] array1 = new string[5] {"1", "12", "123", "1234", "12345"};
+string[] array1 = new string[5] {"1", "Hi", "MIR", "1234", "11"};
 string[] array2 = new string[array1.Length];
 void SecondArrayWithIF(string[] array1, string[] array2)
 {
